@@ -17,9 +17,19 @@ p{
   text-align: center ;
  }
 
+em strong{
+  color: red;
+}
+
 #missão {
 font-size: 28px;
 }
+
+.beneficios{
+  padding: 20px;
+ background-color: #ffffff;
+}
+
 
 ul{
   display: inline-block;
@@ -28,6 +38,11 @@ ul{
   margin-right: 15%;
 }
 
+.item{
+font-style:italic;
+  }
+
 .imagem-beneficios{
   width: 50%;
+  
 }
