@@ -2,34 +2,35 @@
   width: 100%;
 }
 
+.principal{
+  background-color: #CCCCCC;
+  padding: 30px;
+}
+
 .titulo-principal{
-  padding-left: 28px;
+  padding-left: 20px;
 }
 
 .texto-centralizado{
-  
-}
-h1{
   text-align: center;
 }
 
 p{
-  text-align: center ;
- }
+  text-align: center;
+}
 
 em strong{
   color: red;
 }
 
-#missão {
-font-size: 28px;
+#missao{
+  font-size: 28px;
 }
 
 .beneficios{
   padding: 20px;
- background-color: #ffffff;
+  background-color: #FFFFFF;
 }
-
 
 ul{
   display: inline-block;
@@ -39,10 +40,9 @@ ul{
 }
 
 .item{
-font-style:italic;
-  }
+  font-style: italic;
+}
 
 .imagem-beneficios{
   width: 50%;
-  
 }
